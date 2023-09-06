@@ -3,7 +3,7 @@
 A super fancy CLI tool. 
 
  ## Screenshot
-
+<td width="45%"><p align="left" > <img src="ss.png" alt="lonewolf2002" /> </p>
  
 
 
