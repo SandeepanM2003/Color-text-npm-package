@@ -11,7 +11,7 @@ A super fancy CLI tool.
 ## Take the Quiz
 
 ```
-npx firequiz
+npm i sanquiz
 ```
 
 ## Packages Used
