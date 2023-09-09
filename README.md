@@ -13,7 +13,9 @@ A super fancy CLI tool.
 ```
 npm i sanquiz
 ```
-
+```
+npm sanquiz
+```
 ## Packages Used
 
 [chalk](https://github.com/chalk/chalk) | 
